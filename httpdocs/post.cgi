@@ -23,5 +23,3 @@ if length:
 else:
     print "Content-type:text/html\n"
     print 'no found'
-
-
