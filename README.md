@@ -31,13 +31,6 @@ sudo chmod 600 post.html
 sudo chmod +X post.cgi
 ~~~
 
-在进行sudo命令时，需要输入Linux下的sudo命令。
-
-如下图所示：
-
-![](./image/1.png)
-
-如果忘记自己设置的sudo密码，可以按照如下教程进行密码重置：[sudo密码重置](https://blog.csdn.net/TravisPan/article/details/88682529?utm_medium=distribute.pc_aggpage_search_result.none-task-blog-2~aggregatepage~first_rank_v2~rank_aggregation-1-88682529.pc_agg_rank_aggregation&utm_term=linux%E5%BF%98%E8%AE%B0sudo%E5%AF%86%E7%A0%81&spm=1000.2123.3001.4430)
 
 #### 2、编译执行
 
@@ -54,22 +47,9 @@ make
 #### 3、整体过程图
 
 
-
-1、项目默认端口号是6379，如像下图地址栏所示，默认显示的界面是是test.html界面。
+1、项目默认端口号是6379，默认显示的界面是是test.html界面。
 
 2、运行成功后默认显示的为test.html界面，同时同一路径下还有 post.html界面，可以将地址栏的“**test.html**”改成“**post.html**”来进行查看。
 
 
-
-![](./image/2.png)
-
-![](./image/3.png)
-
-![](./image/4.png)
-
-![](./image/5.png)
-
-#### 4、整体框架图
-
-![](./image/myhttp.png)
 
