@@ -73,12 +73,3 @@ make
 
 ![](./image/myhttp.png)
 
-#### 6、参考资料
-
-《TCPIP网络编程》-韩国-尹圣雨
-
-《Linux高性能服务器编程》-中国-游双
-
-https://www.cnblogs.com/qiyeboy/p/6296387.html
-
-https://www.jianshu.com/p/18cfd6019296
