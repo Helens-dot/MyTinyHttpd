@@ -20,7 +20,7 @@
 第一步、克隆项目并给予足够权限，打开命令行依次输入下述命令：
 
 ~~~c
-git clone  
+git clone  https://github.com/Hexiangkun/MyTinyHttpd.git
 
 cd  httpdocs
 
